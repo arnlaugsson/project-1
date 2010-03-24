@@ -1,0 +1,10 @@
+This is a project developed for a introduction course to Compilers taught at Reykjavík University in the spring of 2010.
+
+The project is threefold:
+	1 - Create a lexical analyzer for a subset of the Pascal programming language.
+	2 - Create a parser to parse input files according to the given BNF grammar.
+	3 - Create a TAC (Three Address Code) generator.
+
+We decided to implement our project in the Python programming language.
+
+We are: Haukur Jónasson and Skúli Arnlaugsson {haukurjon08,skuli06}@ru.is
